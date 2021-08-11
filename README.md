@@ -1,2 +1,9 @@
-# hello_world
-Repositório para aula de git e github
+# clonar repositírio do github
+```git
+   git clone
+  git clone lind-do-repositóro apelido
+```
+
+
+
+
